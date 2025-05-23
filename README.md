@@ -11,4 +11,4 @@ assignment/
 │   ├── index.js
 │   └── styles.css#
  
- live link = aryan-assignment-v1.netlify.app
+ live link = https://aryan-assignment-v1.netlify.app/
